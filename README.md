@@ -5,7 +5,7 @@ lab1
 lab1
 https://travis-ci.com/Alwynblake/401n12-lab1.svg?branch=master
 
-### Author: Student/ Group Name
+### Author: Alistair Blake/ Group Name
 
 ### Links and Resources
 repo https://github.com/Alwynblake/401n12-lab1.git
