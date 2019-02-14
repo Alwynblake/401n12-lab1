@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/Alwynblake/401n12-lab1/issues"
   },
-  "homepage": "https://github.com/Alwynblake/401n12-lab1#readme"
+  "homepage": "https://github.com/Alwynblake/401n12-lab1#readme",
+  "devDependencies": {
+    "arithmetic": "^1.0.1",
+    "faker": "^4.1.0",
+    "jest": "^24.1.0"
+  }
 }
