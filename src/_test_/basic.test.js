@@ -1,6 +1,6 @@
 'use strict';
 
-const greet = require('../../lib/greet');
+const greet = require('../lib/greet');
 const faker = require('faker');
 const arithmetic = require('arithmetic');
 
