@@ -1,8 +1,10 @@
 'use strict';
 
 const faker = require('faker');
-const greet = require('./greet');
-const arithmetic = require('arithmetic');
+const greet = require('./lib/greet');
+const arithmetic = require('./lib/arithmetic');
+
+let testArr = [faker.random.number(), faker.random.number()];
 
 console.log(greet.hello(faker.name.firstName()));
 console.log(`The sum of values in the array is: ${arithmetic.add(testArr)}.`);

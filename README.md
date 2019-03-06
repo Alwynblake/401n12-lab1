@@ -1,38 +1,24 @@
-# 401n12-lab1
-lab1
+# Node EcoSystem
 
-## Project Name
-lab1
-https://travis-ci.com/Alwynblake/401n12-lab1.svg?branch=master
+[![Build Status](https://travis-ci.com/Alwynblake/401n12-lab1.svg?branch=master)](https://travis-ci.com/Alwynblake/401n12-lab1)
+### Author: Alistair Blake
 
-### Author: Alistair Blake/ Group Name
+### Description
+
+This is a backend only application that tests greet and arithmetic modules using jest.
 
 ### Links and Resources
-repo https://github.com/Alwynblake/401n12-lab1.git
-travis https://travis-ci.com/Alwynblake/401n12-lab1
-back-end
-front-end https://lab1-401n12.herokuapp.com/
+* GitHub Repo: https://github.com/Alwynblake/401n12-lab1.git
+* TravisCI https://travis-ci.com/Alwynblake/401n12-lab1
+* Deployed Link: https://lab1-401n12.herokuapp.com/
 
 ### Modules
-### `pol.js`
-##### Exported Value and Methods
+### `greet.js`
+### `arithmetic.js`
 
-###### `isAlive(dead) -> boolean`
-Usage Notes or examples
 
 ### Running the app
-* `npm start`
-* Endpoint: `/`
-  * Displays true
+* `npm run start` will run the index.js file
   
 ### Tests
-* How do run tests?
-    -lives by default
-    -dies with a param
-* What assertions were made?
- - Testing the return value of isAlive
-* What assertions need to be / should be made?
- - Nothing is pending right now.
- 
- ### UML
- PICTURE 
+* Run tests by typing the command `npm run test
