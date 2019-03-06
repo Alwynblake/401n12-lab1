@@ -21,4 +21,4 @@ This is a backend only application that tests greet and arithmetic modules using
 * `npm run start` will run the index.js file
   
 ### Tests
-* Run tests by typing the command `npm run test
+* Run tests by typing the command `npm run test`
